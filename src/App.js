@@ -5,7 +5,7 @@ import { useState } from 'react';
 function App() {
   const [toDos, setTodos] = useState([]) // print divs
   const [toDo, setTodo] = useState('') // store data
-
+//comment
   return (
     <div className="app">
       <div className="mainHeading">
